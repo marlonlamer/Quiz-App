@@ -77,9 +77,4 @@ Users can select a category, choose the number of questions, and test their know
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to improve.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
